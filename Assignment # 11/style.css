@@ -1,0 +1,262 @@
+* {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+
+.top-1 {
+    width: 100%;
+    height: 59px;
+    background-color: rgb(236, 230, 230);
+    margin-top: -10px;
+    margin-left: -10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    position: absolute;
+}
+
+.top-pic-1 {
+    margin-top: 0px;
+    position: relative;
+    margin-left: 23%;
+}
+
+.navbar {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    /* position: absolute; */
+    margin-top: 40px;
+    margin-left: 200px;
+}
+
+ul>li {
+    flex: auto;
+    justify-content: center;
+    display: inline;
+    padding: 0px 20px;
+    position: relative;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: sticky;
+}
+
+li a {
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+
+/* li a:hover {
+    color: #000;
+    background-color: #fff;
+    width: 100px;
+    height: 40px;
+    border-radius: 6px;
+    text-align: justify;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    font-weight: 600;
+} */
+
+p {
+    position: absolute;
+    margin-top: 1000px
+}
+
+img {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin: -60px;
+    margin-left: 15px;
+}
+
+.game-1 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    padding-left: 115px;
+    margin: -90px;
+}
+
+.anas {
+    position: absolute;
+    padding-left: 35px;
+}
+
+.home-1 {
+    position: absolute;
+    margin-left: 4px;
+}
+
+.tv-1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: -65px;
+    padding-left: 5px;
+}
+
+.event-1 {
+    position: absolute;
+    padding-left: 45px;
+}
+
+.news-1 {
+    position: absolute;
+    margin-left: 3px;
+}
+
+.sect-1 {
+    position: relative;
+}
+
+.pik-1 {
+    width: 500px;
+    height: 400px;
+    position: absolute;
+}
+
+.pik-2 {
+    width: 188px;
+    height: 193px;
+    margin-left: 526px;
+    margin-top: -268px;
+    position: absolute;
+}
+
+.pik-3 {
+    width: 189px;
+    height: 193px;
+    margin-top: 145px;
+    margin-left: 527px;
+}
+
+.gento-1 {
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: -820px;
+    margin-top: 400px;
+    position: relative;
+}
+
+.p-1 {
+    width: 503px;
+    height: 200px;
+    background-color: #e5d0ef;
+    position: absolute;
+    margin-top: 595px;
+    margin-left: 13px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.rte-1 {
+    position: absolute;
+}
+
+.gento-1 p {
+    font-family: "Roboto", arial, sans-serif;
+    font-size: 1.4em;
+    font-weight: 500;
+    line-height: 125%;
+    margin-left: 1.25em;
+    position: absolute;
+    margin-top: 110px;
+}
+
+.sect-1 .rfh-1 {
+    width: 191px;
+    height: 225px;
+    background-color: rgb(106 105 141);
+    position: absolute;
+    margin-top: 573px;
+    margin-left: -294px;
+    border-radius: 7px;
+}
+
+.rte-1 {
+    font-size: 2em;
+    color: white;
+    font-family: "Roboto", arial, sans-serif;
+    margin-left: 20px;
+    margin-top: 30px
+}
+
+.sect-3 {
+    position: relative;
+}
+
+.fgb-1 {
+    width: 350px;
+    height: 220px;
+    margin-top: 805px;
+    margin-left: -806px;
+    border-radius: 4px;
+}
+
+.fgb-2 {
+    width: 347px;
+    height: 220px;
+    margin-top: 805px;
+    margin-left: -450px;
+    border-radius: 4px
+}
+
+.ety-1 {
+    width: 350px;
+    height: 112px;
+    background-color: rgb(49, 44, 44);
+    position: absolute;
+    margin-top: 1020px;
+    margin-left: -806px;
+    border-radius: 4px;
+}
+
+.ety-1 .asop-1 {
+    color: white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.ety-2 {
+    width: 347px;
+    height: 112px;
+    background-color: rgb(150, 148, 40);
+    position: absolute;
+    margin-top: 1020px;
+    margin-left: -450px;
+    border-radius: 4px;
+}
+
+.ety-2 .asop-2 {
+    color: white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.sect-4 {
+    position: relative;
+}
+
+.wet-1 {
+    width: 1348px;
+    height: 300px;
+    background-color: rgb(34, 30, 30);
+    position: absolute;
+    margin-top: 1200px;
+    margin-left: -1123px;
+}
+
+.sect-4 .sdfk-1 {
+    position: absolute;
+    color: white;
+    margin-top: 1100px;
+}
